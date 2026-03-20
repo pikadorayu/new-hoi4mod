@@ -1,0 +1,11 @@
+state = {
+	id = 555
+	name = "STATE_555"
+	state_category = urban
+	
+	history = {
+		owner = ENG
+		controller = ENG
+		add_core_of = EGY
+	}
+}

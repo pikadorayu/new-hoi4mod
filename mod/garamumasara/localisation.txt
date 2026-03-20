@@ -1,0 +1,3 @@
+l_english:
+ anglo_egypt.1.t:0 "Anglo-Egyptian Sudan"
+ anglo_egypt.1.d:0 "Egypt controls Sudan as in historical Anglo-Egyptian rule."
